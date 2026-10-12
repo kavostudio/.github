@@ -1,5 +1,5 @@
-<img width="1024" height="1024" alt="kavo-logo-dark" src="https://github.com/user-attachments/assets/7b31b871-8201-489c-a20a-8310b82c951c" />
-
+<img width="96" height="96" alt="kavo-logo-dark" src="https://github.com/user-attachments/assets/7b31b871-8201-489c-a20a-8310b82c951c" />
+<br>
 ## Hi there 👋
 
 We're **kavo studio**, a small but fast and high-quality development studio from Bratislava.
@@ -11,11 +11,8 @@ You can find us here: [kavostudio.dev](https://kavostudio.dev)
 
 ### [Renwio](https://renwio.com)
 Field data collection software for cleaning and facility management companies.
-
-
-We are also building utility side projects to solve our own problems
-
-## Side Projects
+<br>
+## We also build smaller side projectse projects to solve our problems
 
 ### [Moonvert](https://github.com/kavostudio/moonvert)
 We built a local file converter for macOS! It handles images, video, audio, documents, geospatial and config files, all on your machine.
