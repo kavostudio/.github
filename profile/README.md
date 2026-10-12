@@ -1,5 +1,8 @@
+<p align="center">
 <img width="96" height="96" alt="kavo-logo-dark" src="https://github.com/user-attachments/assets/7b31b871-8201-489c-a20a-8310b82c951c" />
+</p>
 <br>
+
 ## Hi there 👋
 
 We're **kavo studio**, a small but fast and high-quality development studio from Bratislava.
