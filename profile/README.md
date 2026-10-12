@@ -15,7 +15,7 @@ You can find us here: [kavostudio.dev](https://kavostudio.dev)
 ### [Renwio](https://renwio.com)
 Field data collection software for cleaning and facility management companies.
 <br>
-## We also build smaller side projectse projects to solve our problems
+## We also build side projects to solve our problems
 
 ### [Moonvert](https://github.com/kavostudio/moonvert)
 We built a local file converter for macOS! It handles images, video, audio, documents, geospatial and config files, all on your machine.
